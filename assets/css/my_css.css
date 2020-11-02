@@ -1,0 +1,19 @@
+.my-tablewidth {
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.my-container {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.my-h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.my-jumbotron {
+    height: 100px;
+    background-color: lightslategray;
+}
